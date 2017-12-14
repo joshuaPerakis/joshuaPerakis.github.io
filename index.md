@@ -13,5 +13,5 @@ Outside of the classroom, I have been playing soccer my whole life. My time spen
 Email: perakis2@illinois.edu
 Address: 918 W. Illinois St.
 Cell: (630) 379-4138
-Connect with me on LinkedIn [https://www.linkedin.com/in/joshua-perakis-a6a892153/](https://www.linkedin.com/in/joshua-perakis-a6a892153/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/joshua-perakis-a6a892153/)
 ```
