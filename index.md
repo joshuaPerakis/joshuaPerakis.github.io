@@ -1,6 +1,6 @@
-#### Joshua Perakis
+# Joshua Perakis
 
-## About me
+### About me
 I am a computer science student at the University of Illinois. While I am new to this field of study, I'm currently working on a few projects that have solidified my interest in this subject. I plan on pursuing network and security during my time here. 
 
 
