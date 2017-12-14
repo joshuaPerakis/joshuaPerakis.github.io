@@ -13,14 +13,5 @@ Outside of the classroom, I have been playing soccer my whole life. My time spen
 Email: perakis2@illinois.edu
 Address: 918 W. Illinois St.
 Cell: (630) 379-4138
+Connect with me on LinkedIn [https://www.linkedin.com/in/joshua-perakis-a6a892153/](https://www.linkedin.com/in/joshua-perakis-a6a892153/)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joshuaPerakis/joshuaPerakis.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
