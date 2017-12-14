@@ -1,16 +1,17 @@
 #### Joshua Perakis
 
-# University of Illinois
+## About me
+I am a computer science student at the University of Illinois. While I am new to this field of study, I'm currently working on a few projects that have solidified my interest in this subject. I plan on pursuing network and security during my time here. 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Outside of the classroom, I have been playing soccer my whole life. My time spent on the Chicago Fire Academy was a childhood dream come true (https://www.chicago-fire.com/academy/98-99). We were allowed free entry to Chicago Fire games, 15% off adidas cleats, free transportation/hotels, a coach from Spain, and other amazing perks. I also enjoy fishing, which is something I do with my family every year in Florida. Some of the craziest catches include mating horseshoe crab and a bullshark.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+About me
 
 # Header 1
 ## Header 2
