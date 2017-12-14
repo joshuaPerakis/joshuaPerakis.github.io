@@ -14,4 +14,6 @@ Email: perakis2@illinois.edu
 Address: 918 W. Illinois St.
 Cell: (630) 379-4138
 ```
+
+
 Connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-perakis-a6a892153/) and check out my [github](https://github.com/joshuaPerakis)
